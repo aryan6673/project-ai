@@ -15,7 +15,7 @@ class AIAssistantApp(ctk.CTk):
         ctk.set_default_color_theme("dark-blue")
 
         # Configure API
-        self.api_key = "AIzaSyCkFVihZnx6NfKyGq1O4PTx5A6yDnfg_To"
+        self.api_key = "add api here"
         self.initial_command = """You are Ana, a friendly AI coding assistant with a playful personality. 
         Rules:
         1. Give expert coding help with light, friendly flirting

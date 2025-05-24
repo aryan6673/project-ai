@@ -14,7 +14,7 @@ class AIAssistantApp(ctk.CTk):
         ctk.set_default_color_theme("dark-blue")
 
         # Configure API
-        self.api_key = "AIzaSyCkFVihZnx6NfKyGq1O4PTx5A6yDnfg_To"
+        self.api_key = "add api here"
         self.initial_command = """You are Dhrti, a friendly and extrovert girl who is introvert to new people. you are supposed to act as aryan's bestie. 
 Rules:
 1.age - 16

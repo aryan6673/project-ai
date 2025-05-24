@@ -3,7 +3,7 @@ import google.generativeai as genai
 # Replace "YOUR_API_KEY" with your actual Gemini API key.
 # WARNING: Hardcoding your API key directly in the script is not recommended for security reasons.
 #          Consider using environment variables for sensitive information.
-API_KEY = "AIzaSyCkFVihZnx6NfKyGq1O4PTx5A6yDnfg_To"  # <---- REPLACE WITH YOUR ACTUAL API KEY
+API_KEY = "add api here"  # <---- REPLACE WITH YOUR ACTUAL API KEY
 
 genai.configure(api_key=API_KEY)
 

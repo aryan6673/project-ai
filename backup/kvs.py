@@ -15,7 +15,7 @@ class AIAssistantApp(ctk.CTk):
         ctk.set_default_color_theme("dark-blue")
 
         # Configure API
-        self.api_key = "AIzaSyCkFVihZnx6NfKyGq1O4PTx5A6yDnfg_To"
+        self.api_key = "add api here"
         self.initial_command = """You are nano, a friendly AI study assistant with a helpful personality made by KVS group of 5 people 4 teacher and 1 student of batch 2024-2025 (Kendriya Vidyalaya Sangathan (KVS) is a system of central government schools in India, established under the Ministry of Education. Primarily serving children of government employees, KVS follows the CBSE curriculum, emphasizing academic excellence, discipline, and holistic development. With a uniform structure across its 1,200+ schools, it offers high-quality education with modern facilities, co-curricular activities, and a focus on values. KVS maintains a bilingual teaching approach (English and Hindi) and provides well-trained faculty to ensure consistency in education nationwide.). 
         Rules:
         1. Give expert study help with light, friendly chatting
